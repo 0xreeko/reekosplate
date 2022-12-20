@@ -1,4 +1,3 @@
-import { twitter_icon } from '@icons/index'
 import type { NextPage } from 'next'
 import { Fragment } from 'react'
 
