@@ -7,7 +7,6 @@ const Home: NextPage = () => {
     <Fragment>
       <div className="flex items-center justify-center h-screen">
         <span>Reekosplate</span>
-        <span>{twitter_icon}</span>
       </div>
     </Fragment>
   )
