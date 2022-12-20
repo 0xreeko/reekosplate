@@ -1,5 +1,4 @@
 import Document, { Html, NextScript, Head, Main, DocumentContext } from "next/document";
-import Script from "next/script";
 import NextGA from "nextgas";
 
 class MyDoc extends Document {
